@@ -70,7 +70,7 @@ ng serve
 
 ### 4. Access the Application
 
-Open your browser and go to: `http://localhost:4200`
+Open your browser and go to: `http://localhost:xxxx`
 
 ## 🎯 How to Play
 
