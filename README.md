@@ -73,7 +73,7 @@ ng serve
 
 ### 4. Access the Application
 
-Open your browser and go to: `http://localhost:4200`
+Open your browser and go to: `http://localhost:xxxx`
 
 ## 🎯 How to Play
 
@@ -135,25 +135,6 @@ npm run build --prod  # Optimized production build
 - **Simple Physics**: Acceleration, deceleration, and resistance
 - **Randomness**: Speed variation to make the game more interesting
 - **Victory Detection**: Automatic end-game system
-
-## 🐛 Troubleshooting
-
-### Error: "ng is not recognized"
-```bash
-npx ng serve
-```
-
-### Error: "Port 4200 is already in use"
-```bash
-ng serve --port 4201
-```
-
-### Error: "Dependencies not found"
-```bash
-npm install
-rm -rf node_modules package-lock.json
-npm install
-```
 
 ## 📚 Angular Concepts Demonstrated
 
