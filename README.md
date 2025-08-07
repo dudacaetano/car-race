@@ -2,6 +2,9 @@
 
 An interactive car racing game developed in **Angular 20** for framework study and practice. This project demonstrates fundamental Angular concepts such as standalone components, data binding, event handling, lifecycle hooks, and CSS animations.
 
+## 🖼️ Game Preview:
+![Game Preview](logo/car-race-img.png)
+
 ## 🎮 About the Project
 
 This is a racing game where two cars (Ferrari and McLaren) compete on a virtual track. Players can control the cars' speed using the keyboard, creating an interactive and fun experience.
